@@ -3,19 +3,19 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Quench - 逻辑淬火与真理发布终端"
-title_separator          : "-"
-name                     : "析术 · Quench"
-description              : "「析术」学术委员会官方发布平台。以真理为唯一度量衡，进行硬核知识沉淀与逻辑校正。"
-url                      : "https://xishu-273.github.io"
- baseurl                  : ""
-repository               : "academicpages/academicpages.github.io"
+locale           : "en-US"
+site_theme       : "default"
+title            : "Quench - 逻辑淬火与真理发布终端"
+title_separator  : "-"
+name             : "析术 · Quench"
+description      : "「析术」学术委员会官方发布平台。以真理为唯一度量衡，进行硬核知识沉淀与逻辑校正。"
+url              : "https://xishu-273.github.io"
+baseurl          : ""
+repository       : "xishu-273/xishu-273.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
