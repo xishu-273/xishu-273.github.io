@@ -21,14 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "/images/logo.png" # 保持占位，后期上传“斜切元点”Logo
-  name             : "析术战略顾问组"
-  pronouns         : # example: "she/her"  
-  bio              : "「析术」学术主权捍卫者。严禁情感勒索，唯有逻辑长存。"
-  location         : "逻辑隔离区"
-  uri              : # URL
-  email            : "none@example.org" 
+  name: "析术战略顾问组"
+  avatar: "/images/logo.png"
+  bio: "「析术」学术主权捍卫者。严禁情感勒索，唯有逻辑长存。"
+  location: "逻辑隔离区"
   links:
     - label: "官方协议"
       icon: "fas fa-fw fa-file-contract"
