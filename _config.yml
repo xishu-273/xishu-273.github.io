@@ -9,13 +9,12 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Quench - 逻辑淬火与真理发布终端"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+name                     : "析术 · Quench"
+description              : "「析术」学术委员会官方发布平台。以真理为唯一度量衡，进行硬核知识沉淀与逻辑校正。"
+url                      : "https://xishu-273.github.io"
+ baseurl                  : ""
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -23,14 +22,17 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "/images/logo.png" # 保持占位，后期上传“斜切元点”Logo
+  name             : "析术战略顾问组"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "「析术」学术主权捍卫者。严禁情感勒索，唯有逻辑长存。"
+  location         : "逻辑隔离区"
   uri              : # URL
   email            : "none@example.org" 
+  links:
+    - label: "官方协议"
+      icon: "fas fa-fw fa-file-contract"
+      url: "/protocol/"
 
   # Academic websites
   academia         : # URL
